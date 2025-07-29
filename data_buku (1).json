@@ -1,0 +1,20 @@
+[
+    {
+        "judul": "trio detektif",
+        "penulis": "zayne",
+        "harga": 50000,
+        "stok": 5
+    },
+    {
+        "judul": "buku psikolog anak",
+        "penulis": "xavier",
+        "harga": 40000,
+        "stok": 17
+    },
+    {
+        "judul": "ilmu biologis pada laut",
+        "penulis": "rafayel",
+        "harga": 35000,
+        "stok": 19
+    }
+]
